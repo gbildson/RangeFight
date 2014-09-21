@@ -1,0 +1,8 @@
+com.cardfight.client.CardFightResult, true
+com.cardfight.client.CardFightSummary, true
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true
+java.lang.Exception, false
+java.lang.RuntimeException, false
+java.lang.String, true
+java.lang.Throwable, false
+java.util.ArrayList, true

@@ -1,0 +1,61 @@
+package com.cardfight.client.img;
+
+import com.google.gwt.user.client.ui.ImageBundle;
+import com.google.gwt.user.client.ui.AbstractImagePrototype;
+
+public interface GWTImages extends ImageBundle {
+	 public AbstractImagePrototype RS2c50();
+	 public AbstractImagePrototype RS2d50();
+	 public AbstractImagePrototype RS2h50();
+	 public AbstractImagePrototype RS2s50();
+	 public AbstractImagePrototype RS3c50();
+	 public AbstractImagePrototype RS3d50();
+	 public AbstractImagePrototype RS3h50();
+	 public AbstractImagePrototype RS3s50();
+	 public AbstractImagePrototype RS4c50();
+	 public AbstractImagePrototype RS4d50();
+	 public AbstractImagePrototype RS4h50();
+	 public AbstractImagePrototype RS4s50();
+	 public AbstractImagePrototype RS5c50();
+	 public AbstractImagePrototype RS5d50();
+	 public AbstractImagePrototype RS5h50();
+	 public AbstractImagePrototype RS5s50();
+	 public AbstractImagePrototype RS6c50();
+	 public AbstractImagePrototype RS6d50();
+	 public AbstractImagePrototype RS6h50();
+	 public AbstractImagePrototype RS6s50();
+	 public AbstractImagePrototype RS7c50();
+	 public AbstractImagePrototype RS7d50();
+	 public AbstractImagePrototype RS7h50();
+	 public AbstractImagePrototype RS7s50();
+	 public AbstractImagePrototype RS8c50();
+	 public AbstractImagePrototype RS8d50();
+	 public AbstractImagePrototype RS8h50();
+	 public AbstractImagePrototype RS8s50();
+	 public AbstractImagePrototype RS9c50();
+	 public AbstractImagePrototype RS9d50();
+	 public AbstractImagePrototype RS9h50();
+	 public AbstractImagePrototype RS9s50();
+	 public AbstractImagePrototype RSAc50();
+	 public AbstractImagePrototype RSAd50();
+	 public AbstractImagePrototype RSAh50();
+	 public AbstractImagePrototype RSAs50();
+	 public AbstractImagePrototype RSJc50();
+	 public AbstractImagePrototype RSJd50();
+	 public AbstractImagePrototype RSJh50();
+	 public AbstractImagePrototype RSJs50();
+	 public AbstractImagePrototype RSKc50();
+	 public AbstractImagePrototype RSKd50();
+	 public AbstractImagePrototype RSKh50();
+	 public AbstractImagePrototype RSKs50();
+	 public AbstractImagePrototype RSQc50();
+	 public AbstractImagePrototype RSQd50();
+	 public AbstractImagePrototype RSQh50();
+	 public AbstractImagePrototype RSQs50();
+	 public AbstractImagePrototype RSTc50();
+	 public AbstractImagePrototype RSTd50();
+	 public AbstractImagePrototype RSTh50();
+	 public AbstractImagePrototype RSTs50();
+	 public AbstractImagePrototype blank();
+
+}

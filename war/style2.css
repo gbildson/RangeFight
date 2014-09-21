@@ -1,0 +1,95 @@
+/* defaults */
+* {
+  margin: 0;
+  padding: 0;
+  
+  min-width: 0; /* ie7 fix */
+}
+
+/* body formatting */
+
+body, input, textarea {
+  font: 14px Verdana, geneva, lucida, 'Lucida Grande', arial, helvetica, sans-serif;
+  line-height: 18px;
+  _line-height: normal;
+}
+
+a, a:visited, a:hover {
+  color: #ae1a1a;
+  text-decoration: none;
+}
+
+div.page {
+  padding: 10px;
+  margin: 0;
+  width: 720px;
+  
+  font: 13px/18px Verdana;
+}
+
+.hhead {
+  font: 14px Verdana, geneva, lucida, 'Lucida Grande', arial, helvetica, sans-serif;
+  line-height: 18px;
+  _line-height: normal;
+}
+
+.hhead td {
+  font: 14px Verdana, geneva, lucida, 'Lucida Grande', arial, helvetica, sans-serif;
+  line-height: 18px;
+  _line-height: normal;
+}
+
+
+.standard, .enhanced {
+	border-collapse: collapse;
+	caption-side: bottom;
+	margin: 1em 0;
+	padding: 0;
+	width: 100%;
+}
+	
+.standard td, .enhanced td {
+	border-bottom: 1px dotted #bbb;
+	padding: .5em;
+}
+	
+.standard th, .enhanced th {
+	border-bottom: 1px dotted #bbb;
+	font-weight: bold;
+	padding: .5em;
+	text-align: left;
+}
+
+.scompact, .ecompact {
+	border-collapse: collapse;
+	caption-side: bottom;
+	margin: 0.04em 0;
+	padding: 0;
+	width: 100%;
+}
+	
+.scompact td, .ecompact td {
+	border-bottom: 1px dotted #bbb;
+	padding: .04em;
+}
+	
+.scompact th, .ecompact th {
+	border-bottom: 1px dotted #bbb;
+	font-weight: bold;
+	padding: .1em;
+	text-align: left;
+}
+	
+caption {
+	color: #999;
+	font-size: .9em;
+	font-weight: normal;
+	margin: 0;
+	padding: .5em 0;
+	text-align: left;
+}
+
+a.hmap:link {color: black; }
+a.hmap:visited {color: black; }
+a.hmap:hover {color: black; }
+a.hmap:active {color: black; } 

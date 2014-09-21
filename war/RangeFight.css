@@ -1,0 +1,247 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+.pc-template-btn {
+  display: block;
+  font-size: 16pt
+}
+
+.pc-template-img {
+  margin-top: 20px;
+}
+
+.pb-grid {
+  margin: 0px 0px;
+  padding: 0 0px;
+}
+
+
+.pb-pair
+{
+    background-color            :    #dfd;
+    color                       :    #000;
+
+    border-top                  :    1px solid #666;
+    border-left                 :    1px solid #666;
+    border-right                :    1px solid #666;
+    border-bottom               :    1px solid #666;
+
+    cursor                      :    hand;
+    cursor                      :    pointer;
+
+    width                       :    24px;
+    height                      :    24px;
+    margin                      :    0px 0px;
+    padding                     :    1px;
+    text-align                  :    center;
+}
+.pb-sooted
+{
+    background-color            :    #fdd;
+    color                       :    #000;
+    border-top                  :    1px solid #666;
+    border-left                 :    1px solid #666;
+    border-right                :    1px solid #666;
+    border-bottom               :    1px solid #666;
+
+    cursor                      :    hand;
+    cursor                      :    pointer;
+
+    width                       :    24px;
+    height                      :    24px;
+    margin                      :    0px 0px;
+    padding                     :    1px;
+    text-align                  :    center;
+}
+.pb-unsuited
+{
+    background-color            :    #ddf;
+    color                       :    #000;
+    border-top                  :    1px solid #666;
+    border-left                 :    1px solid #666;
+    border-right                :    1px solid #666;
+    border-bottom               :    1px solid #666;
+
+    cursor                      :    hand;
+    cursor                      :    pointer;
+
+    width                       :    24px;
+    height                      :    24px;
+    margin                      :    0px 0px;
+    padding                     :    1px;
+    text-align                  :    center;
+}
+.pb-pair-up-hovering
+{
+    width                       :    24px;
+    height                      :    24px;    
+    margin                      :    0px 0px;
+    padding                     :    1px;
+    color                       :    #000;
+    background-color            :    #cfc;
+    border-top                  :    1px solid #fff;
+    border-left                 :    1px solid #fff;
+    border-right                :    1px solid #888;
+    border-bottom               :    1px solid #888;
+    text-align                  :    center;
+}
+
+.pb-pair-down, .pb-pair-down-hovering
+{
+    width                       :    24px;
+    height                      :    24px;    
+    background-color            :    #9f9;
+    margin                      :    0px 0px;
+    padding                     :    1px;
+    border-top                  :    1px solid #333;
+    border-left                 :    1px solid #333;
+    border-right                :    1px solid #ccc;
+    border-bottom               :    1px solid #ccc;
+    text-align                  :    center;
+}
+.pb-sooted-up-hovering
+{
+    width                       :    24px;
+    height                      :    24px;
+    margin                      :    0px 0px;
+    padding                     :    1px;
+    color                       :    #000;
+    background-color            :    #fcc;
+    border-top                  :    1px solid #fff;
+    border-left                 :    1px solid #fff;
+    border-right                :    1px solid #888;
+    border-bottom               :    1px solid #888;
+    text-align                  :    center;
+}
+.pb-sooted-down, .pb-sooted-down-hovering
+{
+    width                       :    24px;
+    height                      :    24px;
+    
+    background-color            :    #f99;
+    margin                      :    0px 0px;
+    padding                     :    1px;
+    border-top                  :    1px solid #333;
+    border-left                 :    1px solid #333;
+    border-right                :    1px solid #ccc;
+    border-bottom               :    1px solid #ccc;
+    text-align                  :    center;
+}
+.pb-unsuited-up-hovering
+{
+    width                       :    24px;
+    height                      :    24px;
+    
+    margin                      :    0px 0px;
+    padding                     :    1px;
+    color                       :    #000;
+    background-color            :    #ccf;
+    border-top                  :    1px solid #fff;
+    border-left                 :    1px solid #fff;
+    border-right                :    1px solid #888;
+    border-bottom               :    1px solid #888;
+    text-align                  :    center;
+}
+.pb-unsuited-down, .pb-unsuited-down-hovering
+{
+    width                       :    24px;
+    height                      :    24px;
+    background-color            :    #99f;
+    margin                      :    0px 0px;
+    padding                     :    1px;
+    border-top                  :    1px solid #333;
+    border-left                 :    1px solid #333;
+    border-right                :    1px solid #ccc;
+    border-bottom               :    1px solid #ccc;
+    text-align                  :    center;
+}
+/**
+
+
+
+
+
+*/
+
+.gwt-SliderBar-shell {
+  border: 2px solid #faf9f7;
+  border-right: 2px solid #848280;
+  border-bottom: 2px solid #848280;
+  background-color: #efebe7;
+  height: 34pt;
+  width: 50%;
+}
+.gwt-SliderBar-shell .gwt-SliderBar-line {
+  border: 1px solid black;
+  background-color: white;
+  height: 4px;
+  width: 95%;
+  top: 22pt;
+  overflow: hidden;
+}
+.gwt-SliderBar-shell .gwt-SliderBar-knob {
+  top: 14pt;
+  width: 11px;
+  height: 21px;
+  z-index: 1;
+  cursor: pointer;
+}
+.gwt-SliderBar-shell .gwt-SliderBar-tick {
+  top: 12pt;
+  width: 1px;
+  height: 8pt;
+  background: black;
+  overflow: hidden;
+}
+.gwt-SliderBar-shell .gwt-SliderBar-label {
+  top: 2pt;
+  font-size: 8pt;
+  cursor: default;
+}
+.gwt-SliderBar-shell-focused {
+}
+.gwt-SliderBar-shell .gwt-SliderBar-line-sliding {
+  background-color: #DDDDDD;
+  cursor: pointer;
+}
+
+  .gwt-SliderBar-shell {
+          border-style: inset;
+          border-width: 1px;
+  	background-color: white;
+  }
+  .gwt-SliderBar-line {
+          border-style: outset;
+          border-width: 1px;
+  	background-color: #EEE;
+  	overflow: hidden;
+  }
+  .gwt-SliderBar-knob {
+  	z-index: 1;
+  	cursor: pointer;
+  }
+  .gwt-SliderBar-label {
+  	font-size: 8pt;
+  	cursor: default;
+  	font-weight: bold;
+  }
+  .gwt-SliderBar-label.dimm {
+  	color: #CCC;
+  	font-weight: normal;
+  }
+  .gwt-SliderBar-tick {
+  	width: 1px;
+  	height: 5px;
+  	background: black;
+  	overflow: hidden;
+  }
+  .gwt-SliderBar-tick.dimm {
+  	width: 1px;
+  	background: #CCC;
+  }
+  .gwt-SliderBar-line-sliding {
+  	background-color: #A00;
+  	cursor: pointer;
+  }
+}
